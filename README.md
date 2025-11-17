@@ -15,9 +15,9 @@
 - 🎓 I'm studying **Electronic Engineering**
 - 🎤 I do **Vocaloid covers** on my free time - Check out my [YouTube Channel](https://www.youtube.com/@ruginit)!
 - 🎮 Former **Multex** on Twitch and other platforms
-- 🌱 Currently exploring: *GitHub, Markdown, and making cool READMEs*
+- 🌱 Currently exploring: *TypeScript, git, Python*
 
-> 💭 *"21 years old and I still haven't learn any programming language!"* - But hey, we're working on it!
+> 💭 *"21 years old and I still haven't learn any programming language!"*
 
 ---
 
